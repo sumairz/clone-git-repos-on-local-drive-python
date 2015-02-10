@@ -1,8 +1,3 @@
-'''
-Name: Syed Sumair Zafar
-Id  : 7099347
-'''
-
 # Modules Requirements
 # module: BeautifulSoup
 # module: gitpython
