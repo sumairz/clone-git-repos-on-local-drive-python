@@ -1,9 +1,11 @@
 Config file
 ------------
 url = {Page contains git repo links}
+<br />
 root_directory = {Path to clone git repository on local machine}
 
-
+<br />
+<br />
 To run the script open command line on windows and type
  
  { get_git config }
