@@ -1,5 +1,6 @@
 
 <b>Config file</b>
+<br />
 url = {Page contains git repo links}
 <br />
 root_directory = {Path to clone git repository on local machine}
